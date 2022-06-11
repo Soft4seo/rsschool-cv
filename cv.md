@@ -7,7 +7,7 @@
 *Hackerrank: Soft4seo
 
 ##Summary
-I’m currently working on several web projects for my clients for example (vod.mgsn.ru). Till now coding was my hobby but I want to go deep in coding because I like it and i always want to code well and i need it in my bussiness. I love to find bugs and fix them. I love to learn new things about coding and SEO. I want to get enough knowledge and skills for employment in a company as a Front-end developer.
+I’m currently working on several web projects for my clients for example (vod.mgsn.ru). Till now coding was my hobby but I want to go deep in coding because I like it and i always want to code well and i need it in my bussiness. I love to find bugs and fix them. I love to learn new things about coding and SEO. I want to get enough knowledge and skills for employment in a company as a Front-end or Full-stack developer.
 
 ##Skills
 *12 Years in SEO (Search engine optimisation). 
@@ -43,6 +43,27 @@ I’m currently working on several web projects for my clients for example (vod.
 
 #Experience 
 Small own business – SEO service and web development(ussually on Wordpress, Opencart or Bitrix) from 2010. I have some experience in JS and Frontend development(i fix and change templates from stores for my clients and my projects).
+
+#Code examples
+from math import sqrt
+
+fig = input()
+if fig == 'треугольник':
+   a = int(input())
+   b = int(input())
+   c = int(input())
+   p = (a + b + c) / 2
+   s = p * (p - a) * (p - b) * (p - c)
+   print (sqrt (s))
+elif fig == 'прямоугольник':
+   a = int(input())
+   b = int(input())
+   s = a * b
+   print (s)
+elif fig == 'круг':
+   r = int(input())
+   s = 3.14 * r ** 2 
+   print (s)
 
 #Languages
 *Russian 
