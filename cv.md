@@ -3,6 +3,8 @@
 *Address: Moscow, Russia
 *Phone: +79165889491 
 *E-mail: sffins@gmail.com 
+*GitHub: Soft4seo 
+*Hackerrank: Soft4seo
 
 ##Summary
 I’m currently working on several web projects for my clients for example (vod.mgsn.ru). Till now coding was my hobby but I want to go deep in coding because I like it and i always want to code well and i need it in my bussiness. I love to find bugs and fix them. I love to learn new things about coding and SEO. I want to get enough knowledge and skills for employment in a company as a Front-end developer.
