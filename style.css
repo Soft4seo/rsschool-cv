@@ -1,0 +1,13 @@
+* {
+  max-width: 700px;
+  margin: auto;
+}
+
+p,
+li {
+  font-family: 'Cormorant Garamond';
+}
+
+.head {
+  font-size: 22px;
+}
